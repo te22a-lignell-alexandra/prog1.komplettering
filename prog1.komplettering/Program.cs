@@ -41,30 +41,28 @@ while (true)
 
     Console.WriteLine("\nPlay another round?");
     string answer = Console.ReadLine().ToLower();
-    
-    if (answer == "yes")
-    {
-        round++;
-        Console.WriteLine($"\nRound {round}\n");
-    }
-    if (answer == "no")
-    {
-        Console.WriteLine("\nFinal score");
-        Console.WriteLine("Number of guesses per round:\n");
 
-        for (int i = 0; i < NrOfGuesses.Count; i++)
-        {
-            Console.WriteLine($"Round {i+1}: " + NrOfGuesses[i] + " guesses");
-        }
-        Console.ReadLine();
-        break;
-    }
-    else if (answer != "yes" && answer != "no")
-    {
-        while (answer != "yes" && answer != "no")
+    while (answer != "yes" && answer != "no")
         {
             Console.WriteLine("\nAnswer yes or no.");
             answer = Console.ReadLine().ToLower();
         }
-    }
+    if (answer == "yes")
+        {
+            round++;
+            Console.WriteLine($"\nRound {round}\n");
+        }
+    if (answer == "no")
+        {
+            Console.WriteLine("\nFinal score");
+            Console.WriteLine("Number of guesses per round:\n");
+
+            for (int i = 0; i < NrOfGuesses.Count; i++)
+            {
+                Console.WriteLine($"Round {i+1}: " + NrOfGuesses[i] + " guesses");
+            }
+            Console.ReadLine();
+
+            break;
+        }
 }

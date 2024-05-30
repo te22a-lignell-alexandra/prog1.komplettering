@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("prog1.komplettering")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+655fba936b2fdb1092c30b4ddfefa0f4bf2ddd9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("prog1.komplettering")]
 [assembly: System.Reflection.AssemblyTitleAttribute("prog1.komplettering")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
