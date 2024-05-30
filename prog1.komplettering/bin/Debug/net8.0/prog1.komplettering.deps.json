@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "prog1.komplettering/1.0.0": {
+        "runtime": {
+          "prog1.komplettering.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "prog1.komplettering/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

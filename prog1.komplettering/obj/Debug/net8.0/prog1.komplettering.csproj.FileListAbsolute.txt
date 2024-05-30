@@ -1,0 +1,14 @@
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\bin\Debug\net8.0\prog1.komplettering.exe
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\bin\Debug\net8.0\prog1.komplettering.deps.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\bin\Debug\net8.0\prog1.komplettering.runtimeconfig.json
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\bin\Debug\net8.0\prog1.komplettering.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\bin\Debug\net8.0\prog1.komplettering.pdb
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\prog1.komplettering.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\prog1.komplettering.AssemblyInfoInputs.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\prog1.komplettering.AssemblyInfo.cs
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\prog1.komplettering.csproj.CoreCompileInputs.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\prog1.komplettering.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\refint\prog1.komplettering.dll
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\prog1.komplettering.pdb
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\prog1.komplettering.genruntimeconfig.cache
+c:\Users\alexandra.lignell\Documents\Programmering\C#\prog1.komplettering\prog1.komplettering\obj\Debug\net8.0\ref\prog1.komplettering.dll
